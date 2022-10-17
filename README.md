@@ -27,6 +27,7 @@ const aboutMe = {
          misc: ["Bash", "Nginx", "Caddy"]
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
+      os: ["Windows", "Arch Linux", "Manjaro"]
    },
    currentOccupation: ["third year student, open for job opportunities"],
 };
