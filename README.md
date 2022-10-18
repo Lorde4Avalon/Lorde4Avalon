@@ -19,14 +19,14 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["TailwindCSS", "Bulma", "Bootstrap", "elementUI"]
+         css: ["TailwindCSS", "Bulma", "Bootstrap", "elementUI", "sass"]
       },
       backEnd: {
          java: ["Springboot"],
          js: ["Node", "Express"],
          misc: ["Bash", "Nginx", "Caddy"]
       },
-      databases: ["MongoDB", "mySQL", "PostgreSQL"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL"],
       os: ["Windows", "Arch Linux", "Manjaro"]
    },
    currentOccupation: ["third year student, open for job opportunities"],
