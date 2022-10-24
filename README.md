@@ -15,7 +15,8 @@ I keep learning design & coding skills, as well as an ability to convert require
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java, Golang],
+   code: [Javascript, Typescript, HTML, CSS, Java, Golang], 
+   tools: [git, vscode, idea, docker],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
@@ -24,10 +25,11 @@ const aboutMe = {
       backEnd: {
          java: ["Springboot"],
          js: ["Node", "Express"],
+         cms: ["strapi"],
          misc: ["Bash", "Nginx", "Caddy"]
       },
       databases: ["MongoDB", "MySQL", "PostgreSQL"],
-      os: ["Windows", "Arch Linux", "Manjaro"]
+      os: ["Windows", "WSL", "Arch Linux", "Manjaro"]
    },
    currentOccupation: ["third year student, open for job opportunities"],
 };
