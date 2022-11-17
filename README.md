@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm Lorde
-> A Font(FullStack maybe) developer. Now still a software engineering student
+> A Font-end(FullStack maybe) developer. Now still a software engineering student
 
 
 <div>
