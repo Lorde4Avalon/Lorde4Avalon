@@ -20,15 +20,15 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["TailwindCSS", "Bulma", "Bootstrap", "elementUI", "sass"]
+         css: ["TailwindCSS", "Bulma", "elementUI", "sass"]
       },
       backEnd: {
          java: ["Springboot"],
          js: ["Node", "Express"],
          cms: ["Strapi"],
-         misc: ["Bash", "Nginx", "Caddy"]
+         misc: ["Bash", "Nginx"]
       },
-      databases: ["MongoDB", "MySQL", "PostgreSQL"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL", "Sqllite"],
       os: ["Windows", "WSL", "Arch Linux", "Manjaro"]
    },
    currentOccupation: ["third year student, open for job opportunities"],
