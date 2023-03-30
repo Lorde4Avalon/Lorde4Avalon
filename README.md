@@ -15,12 +15,12 @@ I keep learning design & coding skills, as well as an ability to convert require
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java, Golang], 
+   code: [Javascript, Typescript, HTML, CSS, Java, Golang(was)], 
    tools: [Git, Vscode, Idea, Docker],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["TailwindCSS", "Bulma", "elementUI", "sass"]
+         css: ["TailwindCSS", "elementUI", "sass"]
       },
       backEnd: {
          java: ["Springboot"],
