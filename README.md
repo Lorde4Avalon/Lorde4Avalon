@@ -20,7 +20,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["TailwindCSS", "elementUI", "sass"]
+         css: ["TailwindCSS", "Ant Design" "ElementUI", "Less", "Sass"]
       },
       backEnd: {
          java: ["Springboot"],
@@ -29,7 +29,7 @@ const aboutMe = {
          misc: ["Bash", "Nginx"]
       },
       databases: ["MongoDB", "MySQL", "PostgreSQL", "Sqllite"],
-      os: ["Windows", "WSL", "Arch Linux", "Manjaro"]
+      os: ["Windows", "WSL2", "Arch Linux", "Manjaro"]
    },
    currentOccupation: ["third year student, open for job opportunities"],
 };
