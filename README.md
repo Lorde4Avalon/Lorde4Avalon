@@ -31,7 +31,7 @@ const aboutMe = {
       databases: ["MongoDB", "MySQL", "PostgreSQL", "Sqllite"],
       os: ["Windows", "WSL2", "Arch Linux", "Manjaro"]
    },
-   currentOccupation: ["third year student, open for job opportunities"],
+   currentOccupation: ["fourth year student, open for job opportunities"],
 };
 ```
 
