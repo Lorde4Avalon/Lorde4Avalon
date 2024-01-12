@@ -30,8 +30,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "MySQL"],
       os: ["Mac", "Windows", "Linux"]
-   },
-   currentOccupation: ["fourth year student, open for job opportunities"],
+   }
 };
 ```
 
