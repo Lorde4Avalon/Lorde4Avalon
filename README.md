@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm Lorde
-> A Front-end(FullStack maybe) developer. Now still a software engineering student
+> A Front-end(FullStack maybe) developer. 
 
 
 <div>
