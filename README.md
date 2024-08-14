@@ -20,13 +20,12 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["TailwindCSS", "Ant Design" "ElementUI", "Less", "Sass"]
+         css: ["TailwindCSS", "ShadcnUI"]
       },
       backEnd: {
          java: ["Springboot"],
-         js: ["Node", "Express"],
-         cms: ["Strapi"],
-         misc: ["Bash", "Nginx"]
+         js: ["Node", "Koa"],
+         misc: ["Bash","OhMyZsh", "Nginx"]
       },
       databases: ["MongoDB", "MySQL"],
       os: ["Mac", "Windows", "Linux"]
